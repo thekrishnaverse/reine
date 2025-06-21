@@ -12,8 +12,7 @@
     "react": "^19.1.0",
     "@google/genai": "^1.5.1",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.6.2",
-    "@": "latest"
+    "react-router-dom": "^7.6.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import CarCard from '@/components/CarCard'; // Changed to use @/ alias
+import CarCard from './components/CarCard'; // Changed from @/components/CarCard
 import CarDetailModal from './components/CarDetailModal';
 import LoadingSpinner from './components/LoadingSpinner';
 import HeroSlider from './components/HeroSlider'; // Import HeroSlider
