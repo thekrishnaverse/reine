@@ -1,6 +1,7 @@
+
 {
-  "name": "Honda Car Showcase",
+  "name": "honda-car-showcase",
   "description": "A promotional website for Honda car sales, featuring the latest Honda models with AI-generated descriptions.",
   "requestFramePermissions": [],
-  "prompt": ""
+  "prompt": "This application showcases various Honda car models. It can use AI to generate promotional descriptions for these cars based on their features and target audience. Users can browse the car catalog, view details, and see AI-generated content."
 }
